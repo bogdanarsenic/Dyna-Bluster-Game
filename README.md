@@ -1,5 +1,5 @@
 # DynaBLASTER
-A Python clone of Bomberman
+A Python clone of Bomberman. Project done 2017. by 4 students.
 
 
 ##Dependencies
